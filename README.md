@@ -9,7 +9,7 @@ The objective of this project was to analyze stock data using VBA macros in micr
 With the running of the macro's for the years 2017 and 2018 the following results were yielded.
 
 ![image](https://user-images.githubusercontent.com/85713568/136495839-e79694eb-78b0-4e8e-a92f-354374df99cc.png)
-![image](https://user-images.githubusercontent.com/85713568/136495865-b63a9912-4937-4e74-8b7a-a22c1f02705f.png)
+![image](https://user-images.githubusercontent.com/85713568/136495906-f548a9e1-cf06-4c4e-a2ea-5ae83a7544ea.png)
 
 
 
