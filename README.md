@@ -28,6 +28,16 @@ The following pictures show the time difference for the macro's to execute for e
 ![image](https://user-images.githubusercontent.com/85713568/136497045-8a89f9ef-ae14-44f5-a8f9-d37d96850d0c.png)
 
 
+2018 original code
+![image](https://user-images.githubusercontent.com/85713568/136497151-13cef933-502a-4b0a-a241-4e21b1f47a0a.png)
+
+2018 refactored code 
+![image](https://user-images.githubusercontent.com/85713568/136497191-887164cb-0bfa-4c20-9e14-aef8de0a4e1a.png)
+
+
+
+
+
 
 
 
