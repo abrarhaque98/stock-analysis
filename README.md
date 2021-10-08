@@ -33,7 +33,9 @@ The following pictures show the time difference for the macro's to execute for e
 ![image](https://user-images.githubusercontent.com/85713568/136497151-13cef933-502a-4b0a-a241-4e21b1f47a0a.png)
 
 2018 refactored code  
-  ![image](https://user-images.githubusercontent.com/85713568/136497191-887164cb-0bfa-4c20-9e14-aef8de0a4e1a.png)
+![image](https://user-images.githubusercontent.com/85713568/136497191-887164cb-0bfa-4c20-9e14-aef8de0a4e1a.png)
+
+The original code for 2017 and 2018 both took over half a second where as the refactored code took .07 seconds to run. The refactored code took under 20% of the time to complete the analysis versus the original code
 
 
 
