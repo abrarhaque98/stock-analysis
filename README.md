@@ -16,7 +16,7 @@ With the running of the macro's for the years 2017 and 2018 the following stock 
 From the images above we are able to tell that in 2017 most stocks had a positive return and were in the green with the exception of TERP being down 7.2%.
 For 2018 we see that most stocks were down except for ENPH and RUN with those two being positive atleast 8x% and positive the year before.
 
-**Code Refactor Time Difference **
+**Code Refactor Time Difference**
 
 
 
