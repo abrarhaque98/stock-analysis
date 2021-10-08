@@ -24,6 +24,7 @@ The following pictures show the time difference for the macro's to execute for e
 ![image](https://user-images.githubusercontent.com/85713568/136496649-6190e494-2d39-4df2-bd83-d93a3f2ca4af.png)
 
 2017 refactored code
+
 ![image](https://user-images.githubusercontent.com/85713568/136497045-8a89f9ef-ae14-44f5-a8f9-d37d96850d0c.png)
 
 
